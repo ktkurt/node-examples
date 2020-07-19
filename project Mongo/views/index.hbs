@@ -1,0 +1,14 @@
+<h2> Index page </h2>
+
+{{#if users.length}}
+    {{#each users }}
+        <li> 
+            <label>
+                <span></span>
+                <button class="btn btn-small"> Find </button>
+            </label>
+        </li>
+    {{/each}}
+{{else}}
+    <p> No users </p>
+{{/if}}
