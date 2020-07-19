@@ -1,14 +1,14 @@
 # node-examples
 useful links 
-https://stackoverflow.com/questions/19627631/how-to-get-data-from-mongodb-using-mongoose
-http://mongodb.github.io/mongo-csharp-driver/2.0/getting_started/quick_tour/#get-a-single-document-with-a-filter
-https://askdev.ru/q/poluchit-vse-dokumenty-iz-kollekcii-mongodb-205528/
-https://metanit.com/nosql/mongodb/2.4.php
-https://teamtreehouse.com/community/todofind-is-not-a-function
-https://developerhandbook.com/mongodb/connect-mongo-atlas-mongoose/
-https://www.mongodb.com/blog/post/quick-start-nodejs-mongodb--how-to-get-connected-to-your-database
-https://www.w3schools.com/nodejs/nodejs_mongodb_createcollection.asp
-https://metanit.com/nosql/mongodb/2.2.php
-https://www.npmjs.com/package/nodemon
-https://docs.npmjs.com/cli-commands/fund.html
-https://github.com/Automattic/mongoose
+1. https://stackoverflow.com/questions/19627631/how-to-get-data-from-mongodb-using-mongoose
+2. http://mongodb.github.io/mongo-csharp-driver/2.0/getting_started/quick_tour/#get-a-single-document-with-a-filter
+3. https://askdev.ru/q/poluchit-vse-dokumenty-iz-kollekcii-mongodb-205528/
+4. https://metanit.com/nosql/mongodb/2.4.php
+5. https://teamtreehouse.com/community/todofind-is-not-a-function
+6. https://developerhandbook.com/mongodb/connect-mongo-atlas-mongoose/
+7. https://www.mongodb.com/blog/post/quick-start-nodejs-mongodb--how-to-get-connected-to-your-database
+8. https://www.w3schools.com/nodejs/nodejs_mongodb_createcollection.asp
+9. https://metanit.com/nosql/mongodb/2.2.php
+10. https://www.npmjs.com/package/nodemon
+11. https://docs.npmjs.com/cli-commands/fund.html
+12. https://github.com/Automattic/mongoose
