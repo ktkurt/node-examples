@@ -12,3 +12,4 @@ useful links
 10. https://www.npmjs.com/package/nodemon
 11. https://docs.npmjs.com/cli-commands/fund.html
 12. https://github.com/Automattic/mongoose
+13. https://jasonwatmore.com/post/2019/02/01/react-role-based-authorization-tutorial-with-example#fake-backend-js
